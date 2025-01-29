@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-98" alt="pranay-98" /></a> </p>
 
-- 🔭 I’m currently working as **Data Engineer**
+- 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently learning **React,Spring**
 
 - 📫 How to reach me **pranayreddy.dasari@gmail.com**
 
